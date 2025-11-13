@@ -6,3 +6,4 @@ some line in file b that is locally added
 in feature/cart some line at the end of file b.
 add some code to file b in the main branch.
 ok bye
+hi from b
